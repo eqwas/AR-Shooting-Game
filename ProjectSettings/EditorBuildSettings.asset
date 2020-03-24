@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ARGameProject/Scenes/Menu.unity
+    guid: 440c7441a8c2db0419146800c7efc231
+  - enabled: 1
+    path: Assets/ARGameProject/Scenes/ARGameProject.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/ARGameProject/Scenes/Over.unity
+    guid: b91ddc2e3cbd30e4681e893d733732a4
+  - enabled: 1
+    path: Assets/ARGameProject/Scenes/Win.unity
+    guid: fed5093e8988c334c9b8bc3b83cbfc89
+  m_configObjects: {}
